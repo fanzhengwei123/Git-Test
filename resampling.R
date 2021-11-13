@@ -76,5 +76,5 @@ for(i in 1:K){
   er[i]=error%*%error
   
 }
-
+# a change
 
